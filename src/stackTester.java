@@ -39,15 +39,7 @@ public class stackTester {
         System.out.println("stringArrayStack = " + stringArrayStack);
         System.out.println("stringArrayStack.isEmpty() = " + stringArrayStack.isEmpty());
 
-        //int arraySTack
-        ArrayStack<Integer> stack2 = new ArrayStack<>();
-        stack2.push(1);
-        stack2.push(2);
-        stack2.push(3);
-        System.out.println(stack2.ArrayToString());
-        System.out.println(stack2.toString());
-        System.out.println(stack2.pop());
-
+        
 
 
 
